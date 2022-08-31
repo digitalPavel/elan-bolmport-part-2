@@ -1,0 +1,8 @@
+﻿<configuration>
+	<SQL>
+		<Server>SRVSQL04</Server>
+		<User>AvgUser</User>
+		<Password>JaneDoe</Password>
+		<Catalog>History</Catalog>
+	</SQL>
+</configuration>

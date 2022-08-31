@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ElanBolmportPart2": {
+      "commandName": "Project",
+      "commandLineArgs": "--coid='STY'"
+    }
+  }
+}
